@@ -1,0 +1,21 @@
+
+#logo-img {
+  background: url('../imagenes/piedra_blanca.jpg') no-repeat;
+  background-position: center;
+  margin-left: 0;
+  width: 960px;
+  height: 720px;
+  margin: 5px 0px 300px 1px;
+}
+
+#botron_principal{
+margin-top: 0;
+background: #fff;
+
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
