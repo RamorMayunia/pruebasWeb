@@ -7,15 +7,52 @@
   height: 720px;
   margin: 5px 0px 300px 1px;
 }
-
+/*Header principal de inicio*/
 #botron_principal{
 margin-top: 0;
-background: #fff;
-
+background: #222;
+box-shadow: 0 0 50px #3F0C1F;
+border: 1px solid #3F0C1F;
+color: white;
 }
 
+/*Navegador*/
+
+
+/*Carusel de Imagenes*/
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 100%;
       margin: auto;
   }
+
+  /* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+  color:white;
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+#hours, #address {
+  line-height: 2;
+}
+#hours > span, #address > span {
+  font-size: 1.3em;
+}
+#address p {
+  color: #557c3e;
+  font-size: .8em;
+  line-height: 1.8;
+}
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
+/* END FOOTER */
