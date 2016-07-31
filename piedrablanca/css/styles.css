@@ -1,4 +1,6 @@
 
+
+
 #logo-img {
   background: url('../imagenes/piedra_blanca.jpg') no-repeat;
   background-position: center;
@@ -16,6 +18,14 @@ border: 1px solid #3F0C1F;
 color: white;
 }
 
+
+#informacion {
+   background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    float: center;
+}
 /*Navegador*/
 
 
