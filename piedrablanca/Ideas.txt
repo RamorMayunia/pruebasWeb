@@ -1,0 +1,3 @@
+Poner la parte de las imagenes como varias columnas
+
+Hacer que las imagenes cuando las presiones se hagan una imagen emergente
